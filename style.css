@@ -1,0 +1,22 @@
+* {
+  color: black;
+  background: white;
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font: bold;
+  box-sizing: border-box;
+}
+
+.main {
+  margin: 3rem 3rem;
+  background-color: transparent;
+}
+
+.title {
+  margin: 0rem 0rem 1.5rem;
+}
+
+#sketch-holder {
+  overflow: hidden;
+}
